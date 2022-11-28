@@ -1,0 +1,12 @@
+opencv-python
+pandas
+numpy
+matplotlib
+sklearn
+tensorflow
+imgaug
+keras
+python-engineio==3.13.2
+python-socketio==4.6.1
+Flask
+eventlet
